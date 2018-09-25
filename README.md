@@ -16,3 +16,5 @@ Second, we run our UDP client.
 javac Rfc865UdpClient.java
 java Rfc865UdpClient
 ```
+
+Lab 2 of CE3005 Computer Networks at Nanyang Technological University.
